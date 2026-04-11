@@ -24,6 +24,20 @@ jnz     short loc_401135
 
 **Ảnh code:**
 ![Ảnh code](images/anh-code.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Ảnh biến:**
 ![Ảnh biến](images/anh_bien.jpg)
 

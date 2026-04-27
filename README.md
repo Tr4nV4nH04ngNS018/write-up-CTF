@@ -1,2 +1,2 @@
-# write-up-CTF reversing.kr
+# write-up-CTF 
 hon

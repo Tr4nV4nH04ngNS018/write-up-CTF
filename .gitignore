@@ -1,0 +1,31 @@
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.hexlic
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Python cache & virtualenvs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Other temporary or configuration files
+.idea/
+.vscode/
+*.log
+*.tmp

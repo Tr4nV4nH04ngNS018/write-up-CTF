@@ -8,12 +8,12 @@ Welcome to my repository of Capture The Flag (CTF) writeups. This repository con
 
 | Category | Solved | Status |
 | :--- | :---: | :---: |
-| **🌐 Web Exploitation** | 3 | 🟢 Complete |
+| **🌐 Web Exploitation** | 8 | 🟢 Complete |
 | **⚙️ Reverse Engineering** | 8 | 🟢 Complete |
 | **🔍 Forensics** | 1 | 🟢 Complete |
 | **🔐 Cryptography** | 1 | 🟢 Complete |
 | **📁 Other Events** | 2 | 🟢 Complete |
-| **🔥 Total** | **15** | **Active** |
+| **🔥 Total** | **20** | **Active** |
 
 ---
 
@@ -23,6 +23,11 @@ Welcome to my repository of Capture The Flag (CTF) writeups. This repository con
 
 | Challenge | Key Concepts / Techniques | Flag |
 | :--- | :--- | :--- |
+| [PwnSec 2026 - ReadOnce Docs](writeups/web/Pwnsec-ReadOnce.md) | State Machine Flaw, History Traversal (`history.go(-2)`), Cross-Window Messaging, XSS | <details><summary>Reveal Flag</summary><code>pwnsec{e35da1752f9011910ef3945e43a99fae}</code></details> |
+| [PwnSec 2026 - Easy Leak](writeups/web/Pwnsec-Easy-Leak.md) | Caddy/PHP Path Normalization, Char Filter Bypass, Status Oracle | <details><summary>Reveal Flag</summary><code>pwnsec{6dc1bc8a44647ab0}</code></details> |
+| [PwnSec 2026 - Neon Skies](writeups/web/Pwnsec-Neon-Skies.md) | Caddy Desync / Request Smuggling, Cookie Tossing, Admin XSS | <details><summary>Reveal Flag</summary><code>pwnsec{9abdf66a5f2afecb}</code></details> |
+| [PwnSec 2026 - Phault](writeups/web/Pwnsec-Phault.md) | PHP PDO Blind SQLi, Out-of-bounds Parameter, Error Oracle | <details><summary>Reveal Flag</summary><code>pwnsec{0e2de77060a05e91}</code></details> |
+| [PwnSec 2026 - Pickle in the Middle](writeups/web/Pwnsec-Pickle-in-the-Middle.md) | Python Pickle Deserialization RCE, Subdomain Hijacking | <details><summary>Reveal Flag</summary><code>pwnsec{ce3a3177fb14adae}</code></details> |
 | [Double SQL Injection to PostgreSQL File Read](writeups/web/Double-SQLi-PostgreSQL-File-Read.md) | Auth Bypass, UNION-based SQLi, PostgreSQL `pg_read_file()` | <details><summary>Reveal Flag</summary><code>VSL{d0ubl3_sqli_t0_p0stgr3s_rc3_8d2f19}</code></details> |
 | [B1tsy-Ducky](writeups/web/B1tsy-Ducky.md) | Go WebAssembly, Web + Reverse Engineering | <details><summary>Reveal Flag</summary><code>v1t{b1tsy_t1psy_duck_w4sm}</code></details> |
 | [Duck Nettool Revenge](writeups/web/Duck-Nettool-Revenge.md) | Command Injection, Bypass Restriction with Wildcards | <details><summary>Reveal Flag</summary><code>v1t{br0_th15_15_duck}</code></details> |

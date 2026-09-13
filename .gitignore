@@ -29,3 +29,4 @@ Thumbs.db
 .vscode/
 *.log
 *.tmp
+node_modules/

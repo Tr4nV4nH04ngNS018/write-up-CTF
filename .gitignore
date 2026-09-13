@@ -30,3 +30,32 @@ Thumbs.db
 *.log
 *.tmp
 node_modules/
+
+# Secrets & Keys
+id_*
+*.key
+*.pem
+
+# Browser scrape dumps & temporary outputs
+final_instance_*
+instance_*
+page_info_*
+page_output_*
+page_screenshot_*
+
+# Scratch, debug & extracted folders
+*_extracted/
+oldsessions/
+chrome_dev_profile/
+.claude/
+1/
+2/
+xyz/
+
+# Challenge sources & large repos
+challenge/
+challenge_mouse/
+prism_repo/
+hashcat-*/
+ctf pwnsec/*.html
+ctf pwnsec/triage/

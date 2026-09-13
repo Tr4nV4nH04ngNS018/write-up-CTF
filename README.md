@@ -39,8 +39,8 @@ Welcome to my repository of Capture The Flag (CTF) writeups. This repository con
 | Challenge | Key Concepts / Techniques | Flag |
 | :--- | :--- | :--- |
 | [Keyfile Authentication](writeups/reverse/Keyfile-Authentication.md) | Keyfile verification logic, Struct Alignment, Endianness | <details><summary>Reveal Flag</summary><code>FLAG{f1l3_p4rs1ng_m4st3ry}</code></details> |
-| [Easy Keygen](<Easy keygen/readme.md>) | Rotating XOR cipher decoding | <details><summary>Reveal Flag</summary><code>K3ygenm3</code></details> |
-| [Easy Crack](Easy_Crack/README.md) | String search, local variable tracking, comparison logic | <details><summary>Reveal Flag</summary><code>Ea5yR3versing</code></details> |
+| [Easy Keygen](writeups/reverse/Easy-Keygen.md) | Rotating XOR cipher decoding | <details><summary>Reveal Flag</summary><code>K3ygenm3</code></details> |
+| [Easy Crack](writeups/reverse/Easy-Crack.md) | String search, local variable tracking, comparison logic | <details><summary>Reveal Flag</summary><code>Ea5yR3versing</code></details> |
 | [Classless](writeups/reverse/Classless.md) | Misc + RE, ELF Virtual Machine, Virtual Tables | <details><summary>Reveal Flag</summary><code>v1t{trilingual_vtable_babel_6f01a2c9}</code></details> |
 | [Diddy License Checker](writeups/reverse/Diddy-License-Checker.md) | AES Key Scheduling, Fibonacci Sequence, ELF License Checker | <details><summary>Reveal Flag</summary><code>v1t{435_f1b0_w3bs1t3}</code></details> |
 | [Ducks Ping-Pong](writeups/reverse/Ducks-Ping-Pong.md) | Windows Kernel Driver, User-mode Client Communication | <details><summary>Reveal Flag</summary><code>v1t{quack_quack_D1ngp0ng_ducks!}</code></details> |

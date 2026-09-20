@@ -9,11 +9,11 @@ Welcome to my repository of Capture The Flag (CTF) writeups. This repository con
 | Category | Solved | Status |
 | :--- | :---: | :---: |
 | **🌐 Web Exploitation** | 8 | 🟢 Complete |
-| **⚙️ Reverse Engineering** | 8 | 🟢 Complete |
+| **⚙️ Reverse Engineering** | 9 | 🟢 Complete |
 | **🔍 Forensics** | 1 | 🟢 Complete |
 | **🔐 Cryptography** | 1 | 🟢 Complete |
 | **📁 Other Events** | 2 | 🟢 Complete |
-| **🔥 Total** | **20** | **Active** |
+| **🔥 Total** | **21** | **Active** |
 
 ---
 
@@ -46,6 +46,7 @@ Welcome to my repository of Capture The Flag (CTF) writeups. This repository con
 | [Ducks Ping-Pong](writeups/reverse/Ducks-Ping-Pong.md) | Windows Kernel Driver, User-mode Client Communication | <details><summary>Reveal Flag</summary><code>v1t{quack_quack_D1ngp0ng_ducks!}</code></details> |
 | [TINY](writeups/reverse/TINY.md) | Custom ELF, Self-Decryption, Run-Length Encoding (RLE) | <details><summary>Reveal Flag</summary><code>v1t{^}</code></details> |
 | [TRY](writeups/reverse/TRY.md) | Tiny C Compiler Obfuscation, VM Interpreter | <details><summary>Reveal Flag</summary><code>v1t{n0_dump_just_pain}</code></details> |
+| [NovaGo (RE Challenge 1)](writeups/reverse/NovaGo.md) | Go Binary Reversing, Marker Extraction, Single-byte XOR, Token Recovery | <details><summary>Reveal Flag</summary><code>flag{5436b115-3896-4ca7-82db-8a75f272f519}</code></details> |
 
 <br>
 

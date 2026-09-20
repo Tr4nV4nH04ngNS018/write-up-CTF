@@ -72,6 +72,14 @@ Welcome to my repository of Capture The Flag (CTF) writeups. This repository con
 | **Recover It!** | [Recover It!.docx](<CTF HACKTHEON SEJONG 2026/Recover It!.docx>) |
 | **immutable** | [immutable.docx](<CTF HACKTHEON SEJONG 2026/immutable.docx>) |
 
+<br>
+
+### 🏆 DDC CTF 2026 Final Round (Team S133p: Trần Văn Hoàng, Nguyễn Anh Kiệt, Lê Ngọc Hải Yến, Hoàng Lê Gia Bảo)
+
+| Document / Catalog | Link |
+| :--- | :--- |
+| **DDC CTF 2026 Final Round — Master Writeups & Solvers** | [ddc2026finalround README](<ddc2026finalround/README.md>) |
+
 ---
 
 ## 🛠️ Usage & Setup
